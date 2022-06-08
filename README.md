@@ -9,7 +9,7 @@ Objective:
 - Create API for the ML model
 
 ## 2. Overview of Data Architecture workflow
-This research is an extension of the Airwatch groupwork, which the total process will be set into 5 main steps.
+This research is an extension of the Airwatch groupwork, which the total process will be set into 4 main steps.
 1. Different type of data sources will be explored during this process, such as airline review website and airline information sharing platforms. The data sources will be reviewed to see whether it is suitable for the airline research.
 2. Then data extraction will be conducted to create an automated pipeline on the AWS S3 bucket. So that the experience of data extraction will be more sustainable and effective.
 3. Data transformation is considered in this research to create an effective data format into the PostgreSQL database so that the user can analyse the data in a more effective and automated format.
